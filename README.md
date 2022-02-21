@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently exploring React JS.
 - 🥅 2022 Goals: Learn more about MERN stack
-- ⚡ Hobby: I love to read blogs on tech
+- ⚡ Hobby: I love to read about tech and space 🌌
 - 😁 Fun Fact : I explore social media in my free time
 
 ### Connect with me:
