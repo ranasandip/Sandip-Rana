@@ -1,8 +1,8 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Sandip Rana
 
-## I'm a newbie Full stack Developer & Ex Social Media Manager !
+## I'm a newbie Full stack Developer.
 
-- 🔭 I’m currently exploring React JS.
+- 🔭 I’m currently exploring React JS & GraphQL.
 - 🥅 2022 Goals: Learn more about MERN stack
 - ⚡ Hobby: I love to read about tech and space 🌌
 - 😁 Fun Fact : I explore social media in my free time
