@@ -3,7 +3,7 @@
 ## I'm a newbie Full stack Developer.
 
 - 🔭 I’m currently exploring React JS & GraphQL.
-- 🥅 2022 Goals: Learn more about MERN stack
+- 🥅 2024 Goals: Learn more about MERN stack
 - ⚡ Hobby: I love to read about tech and space 🌌
 - 😁 Fun Fact : I explore social media in my free time
 
